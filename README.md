@@ -2,7 +2,7 @@
 This repository is dedicated to the release versions of the RenderNet Desktop app. Please note that no source code is pushed or maintained here.
 
 ## About RenderNet
-RenderNet is a fast, powerful, and versatile AI image and video generator, know to generate consistent images and videos with perfect poses using #Facelock and #PoseLock. Try our web application [here](https://app.rendernet.ai/).
+[RenderNet](https://rendernet.ai/) is a fast, powerful, and versatile AI image and video generator, know to generate consistent images and videos with perfect poses using #Facelock and #PoseLock. Try our web application [here](https://app.rendernet.ai/).
 
 ## About the App
 This is an Electron-based desktop application designed to allow users to create multiple canvases and generate images and videos using AI tools. The app is currently available for macOS, with a Windows version coming in the future. It is currently in beta.
@@ -14,7 +14,7 @@ This repository exists to:
 - Serve as a changelog for each release, highlighting new features, bug fixes, and improvements.
 
 ### Download
-To download the latest version of RenderNet, head to the [Releases](https://github.com/roverxio/rendernet-electron-app/releases) section.
+To download the latest version of RenderNet Desktop, head to the [Releases](https://github.com/roverxio/rendernet-electron-app/releases) section.
 - macOS: .dmg
 
 _Note: The Windows version is under development and will be available in future releases_
